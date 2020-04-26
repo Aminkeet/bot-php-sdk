@@ -2,7 +2,7 @@
 
 require dirname(__FILE__) . '/../vendor/autoload.php';
 
-$bot_token = 'your bot token';
+$bot_token = 'W2pQRnGp6q1oLa1OeKnKlJxdOlPT6O2MsYR82untcrUXjRrEGBPeccAT7-BJ7IJdjjnA_WWtv-jXPRIlwdGLd3PHHsdIe-Q2ackz-ihTC0-A9Yk20_0u6N7CnnXqEXc2x4p3Xa-I97EAEKhy';
 
 $bot = new Soroush\Client($bot_token);
 
